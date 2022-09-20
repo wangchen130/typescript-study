@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.ts"],"sourcesContent":["const uname: string = \"Dawn\"\r\n\r\nconsole.log(uname);\r\n"],"names":["console","log"],"mappings":"gXAEAA,QAAQC,IAFc"}
